@@ -1,0 +1,10 @@
+.App{
+    overflow-x: hidden;
+}
+
+.card-list{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}

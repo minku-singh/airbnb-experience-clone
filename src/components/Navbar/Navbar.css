@@ -1,0 +1,11 @@
+#navbar--logo{
+    width: 82px;
+    max-width: 100%;
+}
+
+.navbar{
+    box-shadow: 2px 0 5px rgb(206, 206, 206);
+    height: 70px;
+    display: flex;
+    padding: 20px 36px;
+}
